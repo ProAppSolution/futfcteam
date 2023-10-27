@@ -1,0 +1,27 @@
+{
+  "prod": {
+    "available": true
+  },
+  "prodandroid": {
+    "available": true
+  },
+  "backgroundremovalapi": {
+    "url": "https://ai-bg-remove.azurewebsites.net/api/httptrigger"
+  },
+  "notification": {
+    "title": "",
+    "body": "Explore the new enhanced features of the new FUT Card update and showcase your unique card designs to the world! ✨",
+    "imageUrl": "https://media.contentapi.ea.com/content/dam/ea/fc/fc-24/common/features/fc24-features-ultimate-team-16x9.jpg.adapt.1920w.jpg",
+    "extTitle": "🎖️ With FUT Card Creator 3D 🎖️",
+    "extSummary": "Get <b>FUT Card 3D</b>, save to gallery with one tap!"
+  },
+  "fut23": {
+    "available": true
+  },
+  "futhunter": {
+    "available": true
+  },
+  "futhunterandroid": {
+    "available": true
+  }
+}
