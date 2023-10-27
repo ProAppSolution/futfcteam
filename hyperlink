@@ -1,0 +1,24 @@
+{
+  "hyperlinks": {
+    "fut_collection": [
+      {
+        "app_name": "HD Football Renders",
+        "app_id": "fut-hunter",
+        "description": "Download high-quality transparent player images only 3s",
+        "icon": "https://proappsolution.github.io/futfcteam/icons/fut_hunter_icon.png",
+        "android_store_link": "https://play.google.com/store/apps/details?id=com.futfc.futscout",
+        "store_link": "https://play.google.com/store/apps/details?id=com.futfc.futscout",
+        "ios_store_link": "https://apps.apple.com/vn/app/fut-hunter/id6469480256?l=en"
+      },
+      {
+        "app_name": "FUT Chemistry",
+        "app_id": "fut_chemistry",
+        "description": "Optimize FUT Squad Chemistry within 30s",
+        "icon": "https://proappsolution.github.io/futfcteam/icons/fut_chemistry.png",
+        "android_store_link": "https://play.google.com/store/apps/details?id=com.futchemistry.app",
+        "store_link": "https://play.google.com/store/apps/details?id=com.futchemistry.app",
+        "ios_store_link": "https://apps.apple.com/us/app/fut-chemistry-booster/id1659694392"
+      }
+    ]
+  }
+}
