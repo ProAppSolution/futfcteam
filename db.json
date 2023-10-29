@@ -1,9 +1,9 @@
 {
   "prod": {
-    "available": false
+    "available": true
   },
   "prodandroid": {
-    "available": false
+    "available": true
   },
   "backgroundremovalapi": {
     "url": "https://ai-bg-remove.azurewebsites.net/api/httptrigger"
