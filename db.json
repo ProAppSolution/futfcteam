@@ -19,9 +19,9 @@
     "available": true
   },
   "futhunter": {
-    "available": false
+    "available": true
   },
   "futhunterandroid": {
-    "available": false
+    "available": true
   }
 }
