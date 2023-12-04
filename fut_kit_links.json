@@ -35,6 +35,15 @@
         "android_store_link": "https://play.google.com/store/apps/details?id=com.futchemistry.app",
         "store_link": "https://play.google.com/store/apps/details?id=com.futchemistry.app",
         "ios_store_link": "https://apps.apple.com/us/app/fut-chemistry-booster/id1659694392"
+      },
+      {
+        "app_name": "Twitter",
+        "app_id": "twitter",
+        "description": "Join Football Jersey community and share your card",
+        "icon": "https://proappsolution.github.io/futfcteam/icons/twitter.png",
+        "android_store_link": "https://twitter.com/cardcreator24",
+        "store_link": "https://twitter.com/cardcreator24",
+        "ios_store_link": "https://twitter.com/cardcreator24"
       }
     ]
 }
