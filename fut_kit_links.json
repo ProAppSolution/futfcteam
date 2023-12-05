@@ -1,7 +1,7 @@
 {
     "fut_kit": [
       {
-        "app_name": "FUT Card Creator 3D",
+        "app_name": "FUT Card Creator 3D [Ads]",
         "app_id": "futcard3d",
         "description": "Create your own customizable FC 24 Card",
         "icon": "https://proappsolution.github.io/futfcteam/icons/fut_card_creator_icon.png",
@@ -10,7 +10,7 @@
         "ios_store_link": "https://apps.apple.com/vn/app/fc-card-creator-24/id6443756768"
       },
       {
-        "app_name": "HD Football Renders",
+        "app_name": "HD Football Renders [Ads]",
         "app_id": "fut-hunter",
         "description": "Download high-quality transparent player images only 3s",
         "icon": "https://proappsolution.github.io/futfcteam/icons/fut_render.png",
@@ -19,7 +19,7 @@
         "ios_store_link": "https://apps.apple.com/vn/app/fut-hunter/id6469480256?l=en"
       },
       {
-        "app_name": "FC 24 Squad Builder",
+        "app_name": "FC 24 Squad Builder [Ads]",
         "app_id": "fc-24-squad-builder",
         "description": "Football enthusiasts who demand more from their tactical analysis tools",
         "icon": "https://proappsolution.github.io/futfcteam/icons/squad_builder.png",
@@ -28,7 +28,7 @@
         "ios_store_link": "https://apps.apple.com/ca/app/fc-24-squad-builder/id6472065335"
       },
       {
-        "app_name": "FUT Chemistry",
+        "app_name": "FUT Chemistry [Ads]",
         "app_id": "fut_chemistry",
         "description": "Optimize FUT Squad Chemistry within 30s",
         "icon": "https://proappsolution.github.io/futfcteam/icons/fut_chemistry.png",
