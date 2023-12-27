@@ -9,11 +9,11 @@
     "url": "https://ai-bg-remove.azurewebsites.net/api/httptrigger"
   },
   "notification": {
-    "title": "",
-    "body": "Explore the new enhanced features of the new FUT Card update and showcase your unique card designs to the world! ✨",
-    "imageUrl": "https://media.contentapi.ea.com/content/dam/ea/fc/fc-24/common/features/fc24-features-ultimate-team-16x9.jpg.adapt.1920w.jpg",
-    "extTitle": "🎖️ With FUT Card Creator 3D 🎖️",
-    "extSummary": "Get <b>FUT Card 3D</b>, save to gallery with one tap!"
+      "title": "🚀 Upgrade Now for Exciting Features and Free Ads!",
+      "body": "Discover the latest and enhanced features in the new FUT Card Creator 3D update! Showcase your creativity with unique card designs and enjoy free ads to boost your experience. ✨",
+      "imageUrl": "https://customers.ai/wp-content/uploads/2020/09/free-advertising-sites.png",
+      "extTitle": "🎖️ Unlock Exclusive Features with FUT Card Creator 3D 🎖️",
+      "extSummary": "Upgrade now to get <b>FUT Card 3D</b> and save your designs to the gallery with just one tap! Don't miss out on free ads for an even better gaming experience!"
   },
   "fut23": {
     "available": true
