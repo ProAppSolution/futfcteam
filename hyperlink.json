@@ -2,15 +2,6 @@
   "hyperlinks": {
     "fut_collection": [
       {
-        "app_name": "HD Football Renders",
-        "app_id": "fut-hunter",
-        "description": "Download high-quality transparent player images only 3s",
-        "icon": "https://proappsolution.github.io/futfcteam/icons/fut_render.png",
-        "android_store_link": "https://play.google.com/store/apps/details?id=com.futfc.futscout",
-        "store_link": "https://play.google.com/store/apps/details?id=com.futfc.futscout",
-        "ios_store_link": "https://apps.apple.com/vn/app/fut-hunter/id6469480256?l=en"
-      },
-      {
         "app_name": "Football Jersey KIT",
         "app_id": "football-jersey-kit",
         "description": "Design the jersey of your favorite football club or favorite football international team using your finger tip",
@@ -18,6 +9,15 @@
         "android_store_link": "https://play.google.com/store/apps/details?id=com.fufc.futkit",
         "store_link": "https://play.google.com/store/apps/details?id=com.fufc.futkit",
         "ios_store_link": "https://apps.apple.com/ca/app/football-jersey-kit/id6468923689"
+      },
+      {
+        "app_name": "HD Football Renders",
+        "app_id": "fut-hunter",
+        "description": "Download high-quality transparent player images only 3s",
+        "icon": "https://proappsolution.github.io/futfcteam/icons/fut_render.png",
+        "android_store_link": "https://play.google.com/store/apps/details?id=com.futfc.futscout",
+        "store_link": "https://play.google.com/store/apps/details?id=com.futfc.futscout",
+        "ios_store_link": "https://apps.apple.com/vn/app/fut-hunter/id6469480256?l=en"
       },
       {
         "app_name": "FC 24 Squad Builder",
@@ -38,7 +38,7 @@
         "ios_store_link": "https://apps.apple.com/us/app/fut-chemistry-booster/id1659694392"
       },
       {
-        "app_name": "Interview Speaking Practice",
+        "app_name": "Interview AI: Coach Pro",
         "app_id": "interview-ai-coach-pro",
         "description": "#1 AI Copilot For Interviews",
         "icon": "https://proappsolution.github.io/futfcteam/icons/interviewai.png",
