@@ -1,6 +1,15 @@
 {
     "fut_kit": [
       {
+        "app_name": "Edge Lighting Pro [New]",
+        "app_id": "edge-lighting-borderlight",
+        "description": "#1 Edge Lighting, Edge Screen, Border Light",
+        "icon": "https://proappsolution.github.io/futfcteam/icons/appstore.png",
+        "android_store_link": "https://play.google.com/store/apps/details?id=com.futfc.edgelightingplus",
+        "store_link": "https://play.google.com/store/apps/details?id=com.futfc.edgelightingplus",
+        "ios_store_link": "https://apps.apple.com/ca/app/edge-lighting-borderlight/id6475666477"
+      },
+      {
         "app_name": "FUT Card Creator 3D [Ads]",
         "app_id": "futcard3d",
         "description": "Create your own customizable FC 24 Card",
