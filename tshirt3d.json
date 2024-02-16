@@ -1,0 +1,22 @@
+{
+    "graphic": [
+        "comic",
+        "animal",
+        "art"
+    ],
+    "comic": [
+        "comic_0",
+        "comic_1",
+        "comic_2"
+    ],
+    "animal": [
+        "animal_0",
+        "animal_1",
+        "animal_2"
+    ],
+    "art": [
+        "art_0",
+        "art_1",
+        "art_2"
+    ]
+}
