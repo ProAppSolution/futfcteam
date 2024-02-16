@@ -5,18 +5,52 @@
         "art"
     ],
     "comic": [
-        "comic_0",
-        "comic_1",
-        "comic_2"
+        "comic_0.jpg",
+        "comic_1.jpg",
+        "comic_2.jpg"
     ],
     "animal": [
-        "animal_0",
-        "animal_1",
-        "animal_2"
+        "animal_0.jpg",
+        "animal_1.jpg",
+        "animal_2.jpg"
     ],
     "art": [
-        "art_0",
-        "art_1",
-        "art_2"
+        "art_0.png",
+        "art_1.png",
+        "art_2.png",
+        "art_3.png",
+        "art_4.png",
+        "art_5.png",
+        "art_6.png",
+        "art_7.png",
+        "art_8.png",
+        "art_9.png",
+        "art_10.png",
+        "art_11.png",
+        "art_12.png",
+        "art_13.png",
+        "art_14.png",
+        "art_15.png",
+        "art_16.png",
+        "art_17.png",
+        "art_18.png",
+        "art_19.png",
+        "art_20.png",
+        "art_21.png",
+        "art_22.png",
+        "art_23.png",
+        "art_24.png",
+        "art_25.png",
+        "art_26.png",
+        "art_27.png",
+        "art_28.png",
+        "art_29.png",
+        "art_30.png",
+        "art_31.png",
+        "art_32.png",
+        "art_33.png",
+        "art_34.png",
+        "art_35.png",
+        "art_36.png"
     ]
 }
