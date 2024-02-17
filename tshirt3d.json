@@ -4,6 +4,11 @@
         "animal",
         "art"
     ],
+    "colors": [
+        "#0C2D57",
+        "#FC6736",
+        "#FFB0B0"
+    ],
     "comic": [
         "comic_0.png",
         "comic_1.png",
