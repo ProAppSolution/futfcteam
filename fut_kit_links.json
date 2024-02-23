@@ -44,15 +44,6 @@
         "android_store_link": "https://play.google.com/store/apps/details?id=com.futchemistry.app",
         "store_link": "https://play.google.com/store/apps/details?id=com.futchemistry.app",
         "ios_store_link": "https://apps.apple.com/us/app/fut-chemistry-booster/id1659694392"
-      },
-      {
-        "app_name": "Interview AI: Coach Pro [Ads]",
-        "app_id": "interview-ai-coach-pro",
-        "description": "#1 AI Copilot For Interviews",
-        "icon": "https://proappsolution.github.io/futfcteam/icons/interviewai.png",
-        "android_store_link": "https://play.google.com/store/apps/details?id=com.futfc.interviewcopilot",
-        "store_link": "https://play.google.com/store/apps/details?id=com.futfc.interviewcopilot",
-        "ios_store_link": "https://apps.apple.com/vn/app/interview-ai-coach-pro/id6475307209"
       }
     ]
 }
