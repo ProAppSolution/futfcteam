@@ -1,6 +1,6 @@
 {
   "prod": {
-    "available": false
+    "available": true
   },
   "prodandroid": {
     "available": true
@@ -28,6 +28,6 @@
     "available": true
   },
   "fut25": {
-    "available": false
+    "available": true
   }
 }
