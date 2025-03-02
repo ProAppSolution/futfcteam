@@ -26,5 +26,8 @@
   },
   "futcardreward": {
     "available": true
+  },
+  "fut25": {
+    "available": false
   }
 }
