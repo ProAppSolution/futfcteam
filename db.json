@@ -1,6 +1,6 @@
 {
   "prod": {
-    "available": true
+    "available": false
   },
   "prodandroid": {
     "available": true
@@ -16,13 +16,13 @@
       "extSummary": "Upgrade now to get <b>FUT Card 3D</b> and save your designs to the gallery with just one tap! Don't miss out on free ads for an even better gaming experience!"
   },
   "fut23": {
-    "available": true
+    "available": false
   },
   "futhunter": {
     "available": true
   },
   "futhunterandroid": {
-    "available": false
+    "available": true
   },
   "futcardreward": {
     "available": true
