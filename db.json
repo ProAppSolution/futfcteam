@@ -1,6 +1,6 @@
 {
   "prod": {
-    "available": false
+    "available": true
   },
   "prodandroid": {
     "available": true
