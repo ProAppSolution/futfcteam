@@ -1,6 +1,18 @@
 {
     "fut_kit": [
       {
+          "type": "announcement",
+          "id": "apple_account_termination",
+          "title": "Apple terminated our developer account",
+          "subtitle": "5+ years of work removed overnight",
+          "description": "Our Apple Developer account was suddenly terminated, causing all of our apps to be removed from the App Store and directly impacting our users. We are working to support affected users and rebuild our products.",
+          "cta_text": "Read full story",
+          "cta_link": "https://applekilledourstartup.vercel.app/",
+          "highlight": true,
+          "priority": "high",
+          "created_at": "2026-04-19"
+        },
+      {
         "app_name": "Edge Lighting Pro [Ads]",
         "app_id": "edge-lighting-borderlight",
         "description": "#1 Edge Lighting, Edge Screen, Border Light",
