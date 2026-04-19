@@ -11,51 +11,6 @@
           "highlight": true,
           "priority": "high",
           "created_at": "2026-04-19"
-        },
-      {
-        "app_name": "Edge Lighting Pro [Ads]",
-        "app_id": "edge-lighting-borderlight",
-        "description": "#1 Edge Lighting, Edge Screen, Border Light",
-        "icon": "https://proappsolution.github.io/futfcteam/icons/appstore.png",
-        "android_store_link": "https://play.google.com/store/apps/details?id=com.futfc.edgelightingplus",
-        "store_link": "https://play.google.com/store/apps/details?id=com.futfc.edgelightingplus",
-        "ios_store_link": "https://apps.apple.com/ca/app/edge-lighting-borderlight/id6475666477"
-      },
-      {
-        "app_name": "FUT Card Creator 3D [Ads]",
-        "app_id": "futcard3d",
-        "description": "Create your own customizable FC 24 Card",
-        "icon": "https://proappsolution.github.io/futfcteam/icons/fut_card_creator_icon.png",
-        "android_store_link": "https://play.google.com/store/apps/details?id=com.futfc.futcard3d",
-        "store_link": "https://play.google.com/store/apps/details?id=com.futfc.futcard3d",
-        "ios_store_link": "https://apps.apple.com/vn/app/fc-card-creator-24/id6443756768"
-      },
-      {
-        "app_name": "HD Football Renders [Ads]",
-        "app_id": "fut-hunter",
-        "description": "Download high-quality transparent player images only 3s",
-        "icon": "https://proappsolution.github.io/futfcteam/icons/fut_render.png",
-        "android_store_link": "https://play.google.com/store/apps/details?id=com.futfc.futscout",
-        "store_link": "https://play.google.com/store/apps/details?id=com.futfc.futscout",
-        "ios_store_link": "https://apps.apple.com/vn/app/fut-hunter/id6469480256?l=en"
-      },
-      {
-        "app_name": "FC 24 Squad Builder [Ads]",
-        "app_id": "fc-24-squad-builder",
-        "description": "Football enthusiasts who demand more from their tactical analysis tools",
-        "icon": "https://proappsolution.github.io/futfcteam/icons/squad_builder.png",
-        "android_store_link": "https://play.google.com/store/apps/details?id=com.futfc.fcsquadbuilder",
-        "store_link": "https://play.google.com/store/apps/details?id=com.futfc.fcsquadbuilder",
-        "ios_store_link": "https://apps.apple.com/ca/app/fc-24-squad-builder/id6472065335"
-      },
-      {
-        "app_name": "FUT Chemistry [Ads]",
-        "app_id": "fut_chemistry",
-        "description": "Optimize FUT Squad Chemistry within 30s",
-        "icon": "https://proappsolution.github.io/futfcteam/icons/fut_chemistry.png",
-        "android_store_link": "https://play.google.com/store/apps/details?id=com.futchemistry.app",
-        "store_link": "https://play.google.com/store/apps/details?id=com.futchemistry.app",
-        "ios_store_link": "https://apps.apple.com/us/app/fut-chemistry-booster/id1659694392"
-      }
+        }
     ]
 }
